@@ -6,4 +6,4 @@ Requirement :
 2. Textblob
 
 Note : 
-Just add Languange ID to support another languange
+Just add Languange code to support another languange
